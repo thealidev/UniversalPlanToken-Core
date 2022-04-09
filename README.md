@@ -1,5 +1,3 @@
 # The Source Code OF Universal Plan Token ..
-# TRON MainNet Contract ..
-`Null`
-# Nile Tron Contract TestNet ..
-`TNebchf1v3mXrX9vpPjqsVke6EAZKWfzvp`
+# FUSE MainNet Contract ..
+`0xb3f17cd7BDdB39275ff16ef1cb3Da4B678862d82`

@@ -1,1 +1,0 @@
-## SourceCode Of Universal Plan Token TRC20 Based Contract ..

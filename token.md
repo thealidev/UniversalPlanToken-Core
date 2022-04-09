@@ -1,1 +1,1 @@
-## Token Main Source Code Is Inside Token Folder ..
+## There Is No Token Source Code Because It Is Created With FUSE Studio ..
